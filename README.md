@@ -6,7 +6,7 @@ Este proyecto contiene las soluciones desarrolladas en Python para los problemas
 * Python 3.x instalado.
 
 ## Ejecución
-Para ejecutar el script de Mochila Fraccional:
+Para ejecutar los scripts:
 ```bash
 python problema1_mochila.py
 
